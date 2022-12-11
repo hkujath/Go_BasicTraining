@@ -51,7 +51,6 @@ func LearnVariables() {
 	//fmt.Println(add(g))
 
 	// IOTA
-
 	const (
 		Monday  = iota
 		Tuesday = iota

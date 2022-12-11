@@ -1,15 +1,21 @@
 package main
 
 import (
-	"Go_BasicTraining/basics"
 	"fmt"
+	"github.com/hkujath/Go_BasicTraining/basics"
 )
 
 func main() {
-	fmt.Println("############ Start basic training. ############")
+	fmt.Print("############ Start basic training. ############\n\n")
 	//basics.LearnPrint()
 	//basics.LearnVariables()
-	basics.LearnPointers()
-	fmt.Println("############ Basic training finished. ############")
+	//basics.LearnPointers()
+	//basics.LearnTypeConversion()
+	//basics.LearnStructures()
+	//basics.LearnFunctions()
+	//basics.LearnObjectOrientation()
+	//basics.LearnArrays()
+	basics.LearnSlices()
+	fmt.Print("\n\n############ Basic training finished. ############")
 
 }
