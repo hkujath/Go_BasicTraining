@@ -15,7 +15,13 @@ func main() {
 	//basics.LearnFunctions()
 	//basics.LearnObjectOrientation()
 	//basics.LearnArrays()
-	basics.LearnSlices()
+	//basics.LearnSlices()
+	//basics.LearnMaps()
+	//basics.LearnIfs()
+	//basics.LearnSwitch()
+	//basics.LearnFor()
+	//basics.LearnGoTo()
+	basics.LearnRunes()
 	fmt.Print("\n\n############ Basic training finished. ############")
 
 }
