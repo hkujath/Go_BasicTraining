@@ -19,9 +19,10 @@ func main() {
 	//basics.LearnMaps()
 	//basics.LearnIfs()
 	//basics.LearnSwitch()
-	//basics.LearnFor()
-	//basics.LearnGoTo()
+	basics.LearnFor()
+	basics.LearnGoTo()
 	basics.LearnRunes()
+	basics.LearnGoDoc()
 	fmt.Print("\n\n############ Basic training finished. ############")
 
 }
