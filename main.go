@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/hkujath/Go_BasicTraining/basics"
+	"github.com/hkujath/Go_BasicTraining/advanced"
 )
 
 func main() {
@@ -19,10 +19,24 @@ func main() {
 	//basics.LearnMaps()
 	//basics.LearnIfs()
 	//basics.LearnSwitch()
-	basics.LearnFor()
-	basics.LearnGoTo()
-	basics.LearnRunes()
-	basics.LearnGoDoc()
+	//basics.LearnFor()
+	//basics.LearnGoTo()
+	//basics.LearnRunes()
+	//basics.LearnGoDoc()
+	//basics.LearnRoutines()
+	//basics.LearnChannel()
+
+	// Advanced
+	//advanced.LearnRaceConditions()
+	//advanced.LearnContext()
+	//advanced.LearnPipeline()
+	//advanced.LearnGenerator()
+	//advanced.LearnFanInFanOut()
+	//advanced.LearnChannelOfChannels()
+	//advanced.LearnWorkerpool()
+	//advanced.LearnSemaphore()
+	advanced.LearnStatemachine()
+
 	fmt.Print("\n\n############ Basic training finished. ############")
 
 }
