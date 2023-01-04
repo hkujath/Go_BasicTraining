@@ -35,7 +35,9 @@ func main() {
 	//advanced.LearnChannelOfChannels()
 	//advanced.LearnWorkerpool()
 	//advanced.LearnSemaphore()
-	advanced.LearnStatemachine()
+	//advanced.LearnStatemachine()
+	//advanced.LearnBenchmark()
+	advanced.LearnInterface()
 
 	fmt.Print("\n\n############ Basic training finished. ############")
 
